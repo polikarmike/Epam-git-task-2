@@ -1,7 +1,7 @@
-Line 1
+Change from folder2, line 1
 git_1 change at line 2
 Line 3
-Line 4
+Change from folder2, line 4
 git_1 change at line 5
 Line 6
 Line 7
