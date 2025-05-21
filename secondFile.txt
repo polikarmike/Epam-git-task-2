@@ -1,9 +1,11 @@
 Line 1
 Line 2
+Modified in git_2 line 3
 Modified in git_1 line 3 differently
 Line 4
 Line 5
 Line 6
+Modified in git_2 line 7
 Modified in git_1 line 7 differently
 Line 8
 Line 9
